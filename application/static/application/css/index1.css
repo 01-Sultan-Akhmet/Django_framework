@@ -1,0 +1,31 @@
+body{
+    width: 100%;
+}
+.d-flex{
+    position: relative;
+    bottom: -9px;
+}
+
+.btn1{
+    border-radius: 5px;
+    width: 75px;
+    height: 50px;
+    position: absolute;
+    top: 60%;
+    left: 57%;
+    color: white;
+    background-color: rgb(34, 33, 30);
+}
+.line{
+    position: relative;
+    bottom: 0px;
+    border-bottom: 18px solid #222;
+    height: 10px;
+}
+.games{
+  position: relative;
+  left: 500px;
+  top: 50px;
+  width: 35%;
+  height: 20%;
+}
